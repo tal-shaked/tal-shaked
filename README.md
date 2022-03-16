@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tal-shaked
+- 👋 Hi, I’m Tal Shaked
 - 👀 I’m interested in ML/AI
 - 🌱 I’m currently learning how to use GitHub
 
